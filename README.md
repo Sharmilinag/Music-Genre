@@ -66,4 +66,3 @@ The Mel Frequency Cepstrum (MFC) encodes the power spectrum of a sound. It is ca
 
 
 
-#^^^()()^^^
