@@ -115,4 +115,3 @@ def plot_roc_curves(auc_score, name, tpr, fpr, label=None):
     filename = name.replace(" ", "_")
     pylab.savefig(os.path.join(CHART_DIR, "roc_" + filename + ".png"), bbox_inches="tight")
 
-#^^^()()^^^
